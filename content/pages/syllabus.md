@@ -83,11 +83,48 @@ Grading
 
 The grade is determined from 10 problem sets, a midterm quiz and a comprehensive final quiz. Both examinations will be open-book, open-notes.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 40% |
-| Mid-term Quiz | 30% |
-| Final Quiz | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Homework has two purposes:
 
@@ -99,45 +136,555 @@ The problem sets must, therefore, represent your own work. You may certainly dis
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Rocket equation; gravity loss; optimum acceleration | &nbsp; |
-| 2 | Rocket staging; range of aircraft; climb & acceleration | Homework 1 posted |
-| 3 | Orbital mechanics; single force center | &nbsp; |
-| 4 | Hyperbolic orbits; interplanetary transfer | &nbsp; |
-| 5 | Non-chemical rockets; optimum exhaust velocity |  {{< br >}}{{< br >}} Homework 1 due {{< br >}}{{< br >}} Homework 2 posted {{< br >}}{{< br >}}  |
-| 6 | Modeling of thermal rocket engines; nozzle flow; control of mass flow | &nbsp; |
-| 7 | Modeling of rocket nozzles; effects of nozzle area ratio | &nbsp; |
-| 8 | Types of nozzles; connection of flow to nozzle shape |  {{< br >}}{{< br >}} Homework 2 due {{< br >}}{{< br >}} Homework 3 posted {{< br >}}{{< br >}}  |
-| 9 | Solid propellant gas generators; stability; grain designs | &nbsp; |
-| 10 | Models for rocket engines; flow of reacting gases | &nbsp; |
-| 11 | Reacting gases (cont.); temperature dependence of specific heats |  {{< br >}}{{< br >}} Homework 3 due {{< br >}}{{< br >}} Homework 4 posted {{< br >}}{{< br >}}  |
-| 12 | Nozzle flow of reacting gases | &nbsp; |
-| 13 | Rocket casing design; structural modeling | &nbsp; |
-| 14 | Heat transfer and cooling |  {{< br >}}{{< br >}} Homework 4 due {{< br >}}{{< br >}} Homework 5 posted {{< br >}}{{< br >}}  |
-| 15 | Ablative cooling | &nbsp; |
-| 16 | Thrust vectoring; engine cycles; mass estimates | &nbsp; |
-| 17 | Aircraft propulsion, configuration and components |  {{< br >}}{{< br >}} Homework 5 due {{< br >}}{{< br >}} Optional homework posted {{< br >}}{{< br >}}  |
-| 18 | Aircraft engine modeling; turbojet engine | &nbsp; |
-| 19 | Turbojet engines (cont.); design parameters; effect of mass flow on thrust. | &nbsp; |
-| &nbsp; | Mid-term quiz | &nbsp; |
-| 20 | Introduction to component matching and off-design operation | &nbsp; |
-| 21 | Turbofan engines | Homework 6 posted |
-| 22 | Inlets or diffusers | &nbsp; |
-| 23 | Exhaust nozzles | &nbsp; |
-| 24 | Compressors and fans | &nbsp; |
-| 25 | Velocity triangles; compressor performance maps |  {{< br >}}{{< br >}} Homework 6 due {{< br >}}{{< br >}} Homework 7 posted {{< br >}}{{< br >}}  |
-| 26 | Compressor blading; design; multi-staging | &nbsp; |
-| 27 | Turbines; stage characteristics; degree of reaction |  {{< br >}}{{< br >}} Homework 7 due {{< br >}}{{< br >}} Homework 8 posted {{< br >}}{{< br >}}  |
-| 28 | Turbine solidity; mass flow limits; blade temperature | &nbsp; |
-| 29 | Turbine cooling; general trends and systems; internal cooling | &nbsp; |
-| 30 | Film cooling; thermal stresses; impingement cooling; how to do cooling design |  {{< br >}}{{< br >}} Homework 8 due {{< br >}}{{< br >}} Homework 9 posted {{< br >}}{{< br >}}  |
-| 31 | Compressor-turbine matching; gas generators | &nbsp; |
-| 32 | Engine structures; centrifugal stresses; engine arrangements | &nbsp; |
-| 33 | Critical speeds and vibration |  {{< br >}}{{< br >}} Homework 9 due {{< br >}}{{< br >}} Homework 10 posted {{< br >}}{{< br >}}  |
-| 34 | Combustors; afterburners | &nbsp; |
-| 35 | Pollutant; motivations for control; formation; strategies for reduction | &nbsp; |
-| 36 | Aircraft engine noise: principles; regulations | Homework 10 due |
-| 37 | Jet noise, turbomachinery noise | &nbsp; |
-| 38 | Rotordynamics of the jet engine | &nbsp; |
-| &nbsp; | Final quiz |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Rocket equation; gravity loss; optimum acceleration
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Rocket staging; range of aircraft; climb & acceleration
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 posted
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Orbital mechanics; single force center
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Hyperbolic orbits; interplanetary transfer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Non-chemical rockets; optimum exhaust velocity
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 1 due
+
+Homework 2 posted
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Modeling of thermal rocket engines; nozzle flow; control of mass flow
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Modeling of rocket nozzles; effects of nozzle area ratio
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Types of nozzles; connection of flow to nozzle shape
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 2 due
+
+Homework 3 posted
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Solid propellant gas generators; stability; grain designs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Models for rocket engines; flow of reacting gases
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Reacting gases (cont.); temperature dependence of specific heats
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 3 due
+
+Homework 4 posted
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Nozzle flow of reacting gases
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Rocket casing design; structural modeling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Heat transfer and cooling
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 4 due
+
+Homework 5 posted
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Ablative cooling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Thrust vectoring; engine cycles; mass estimates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Aircraft propulsion, configuration and components
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 5 due
+
+Optional homework posted
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Aircraft engine modeling; turbojet engine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Turbojet engines (cont.); design parameters; effect of mass flow on thrust.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Mid-term quiz
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to component matching and off-design operation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Turbofan engines
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 posted
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Inlets or diffusers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Exhaust nozzles
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Compressors and fans
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Velocity triangles; compressor performance maps
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 6 due
+
+Homework 7 posted
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Compressor blading; design; multi-staging
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Turbines; stage characteristics; degree of reaction
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 7 due
+
+Homework 8 posted
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Turbine solidity; mass flow limits; blade temperature
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Turbine cooling; general trends and systems; internal cooling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Film cooling; thermal stresses; impingement cooling; how to do cooling design
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 8 due
+
+Homework 9 posted
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Compressor-turbine matching; gas generators
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Engine structures; centrifugal stresses; engine arrangements
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Critical speeds and vibration
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 9 due
+
+Homework 10 posted
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Combustors; afterburners
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Pollutant; motivations for control; formation; strategies for reduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Aircraft engine noise: principles; regulations
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Jet noise, turbomachinery noise
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Rotordynamics of the jet engine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final quiz
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
