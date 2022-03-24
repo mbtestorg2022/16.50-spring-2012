@@ -30,7 +30,7 @@ SOLUTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Homework 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit16_50s12_hw2)
+[Homework 2 (PDF)]({{< baseurl >}}/resources/mit16_50s12_hw2)
 {{< tdclose >}}
 {{< tdopen >}}
 [Solution 2 (PDF)]({{< baseurl >}}/resources/mit16_50s12_sol2)
