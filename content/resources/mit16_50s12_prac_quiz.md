@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding practice mid-term quiz.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-50-introduction-to-propulsion-systems-spring-2012/0ca8745515511c1eec7e19c3d971ceb4_MIT16_50S12_prac_quiz.pdf
 file_type: application/pdf
+parent_uid: 28a78564-bf04-51cc-7c16-f74eb7a30461
 resourcetype: Document
 title: Practice Mid-term Quiz
 uid: 0ca87455-1551-1c1e-ec7e-19c3d971ceb4
